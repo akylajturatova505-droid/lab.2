@@ -1,2 +1,10 @@
-# lab.2
-Мой первый репозиторий на GitHub
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Akylai</h1>
+</body>
+</html>
